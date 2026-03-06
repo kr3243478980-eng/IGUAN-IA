@@ -1,0 +1,36 @@
+Barrancabermeja es un distrito (municipio con categoría de distrito) colombiano ubicado en la margen derecha del río Magdalena, en la región occidental del departamento de Santander. Es la ciudad industrial más importante de Santander y la capital de la Provincia de Yariguíes (también conocida históricamente como Provincia de Mares).
+
+Se encuentra aproximadamente a 110-114 km al occidente de Bucaramanga (capital departamental), a unos 403 km de Bogotá y a 373 km de Medellín. Sus coordenadas geográficas aproximadas son 7°04′N 73°51′W.
+
+**Geografía y clima**  
+La ciudad se asienta en una planicie a orillas del río Magdalena, principal arteria fluvial de Colombia. Su altitud media es de aproximadamente 76 metros sobre el nivel del mar. La temperatura promedio anual ronda los 27.6-28 °C, con clima cálido húmedo típico del Magdalena Medio colombiano. Posee una extensión territorial de 1.154 km².
+
+Limita al norte con Puerto Wilches, al sur con Puerto Parra, Simacota y San Vicente de Chucurí, al oriente con San Vicente de Chucurí y Girón, y al occidente con el río Magdalena.
+
+**Historia resumida**  
+El territorio fue habitado originalmente por indígenas yariguíes (familia lingüística caribe). Pasó por el lugar Gonzalo Jiménez de Quesada durante la conquista en el siglo XVI, pero su importancia moderna comienza a principios del siglo XX con el descubrimiento y explotación petrolera.
+
+Antes se conocía como Puerto Santander o La Tora, un pequeño muelle y asentamiento ribereño. La Tropical Oil Company (luego absorbida por lo que sería Ecopetrol) inició operaciones petroleras en la década de 1910-1920.
+
+El 26 de abril de 1922 se erigió como municipio (separado de San Vicente de Chucurí), fecha que se celebra como fundación oficial. Durante el siglo XX experimentó un crecimiento explosivo gracias al petróleo: entre 1919 y 1938 creció más de 500 %, y siguió expandiéndose en las décadas siguientes.
+
+**Población**  
+Según datos del censo DANE 2018 (ajustados por omisión), la población total rondaba los 199.500-203.500 habitantes. Proyecciones y estimaciones más recientes (2020-2025) la sitúan cerca o por encima de los 200.000-300.000 habitantes (incluyendo área urbana y rural), siendo la ciudad más grande de la región del Magdalena Medio. La distribución es aproximadamente 49-50 % hombres y 50-51 % mujeres. Tiene una estructura urbana dividida en comunas, corregimientos y el área de la refinería.
+
+**Economía y principal actividad**  
+Barrancabermeja es conocida como la "Capital Petrolera de Colombia" o "Capital del Petróleo". Alberga la Refinería de Barrancabermeja de Ecopetrol, la más grande del país y una de las más importantes de Latinoamérica.
+
+La refinería inició operaciones en 1922 con capacidad inicial muy pequeña (alrededor de 1.500 barriles diarios) y ha evolucionado hasta procesar actualmente alrededor de 225.000-250.000 barriles por día (datos aproximados 2023-2025). Ha recibido múltiples modernizaciones (2008-2010, planes posteriores hasta 2023-2025) para mejorar calidad de combustibles (reducción de azufre), eficiencia y cumplimiento ambiental, con inversiones multimillonarias (billones de pesos).
+
+La economía gira en torno a la industria petrolera, petroquímica, transporte fluvial, puerto y actividades derivadas (contratación, servicios, comercio). Genera empleo directo e indirecto significativo (miles de puestos, con alta participación de mano de obra local). Ecopetrol invierte también en proyectos sociales en la región (decenas o cientos de miles de millones de pesos anuales).
+
+**Infraestructura**  
+- Aeropuerto Yariguíes (código IATA: EJA).  
+- Puerto fluvial y terminal de transportes sobre el río Magdalena.  
+- Conexión vial con Bucaramanga y otras ciudades (influencia de proyectos como Ruta del Sol, vía Yuma).  
+- La refinería cuenta con decenas de unidades de proceso, tanques de almacenamiento y centro de control operativo.
+
+**Otros aspectos**  
+Es un nodo clave en la soberanía energética de Colombia. La ciudad ha experimentado transformaciones urbanas ligadas al auge petrolero (crecimiento desde pequeño puerto hasta ciudad intermedia industrial). Presenta retos típicos de ciudades industriales (gestión ambiental, diversificación económica, migración por megaproyectos). Cuenta con tradiciones culturales influenciadas por el río, la migración interna y la actividad petrolera.
+
+El texto anterior está redactado de forma limpia, factual y estructurada para facilitar su ingestión en un sistema RAG (Retrieval-Augmented Generation) sin ruido innecesario.
